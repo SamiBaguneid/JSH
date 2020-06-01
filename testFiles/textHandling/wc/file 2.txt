@@ -1,0 +1,6 @@
+This is another file that is used
+to calculate
+the number of words, lines and characters
+of this text document
+
+but will be used when passing multiple arguments into our application wc

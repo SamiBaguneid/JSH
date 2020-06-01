@@ -1,0 +1,6 @@
+This is a sample file that is used
+to calculate
+the number of words, lines and characters
+of this text document
+
+using the wc application
